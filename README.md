@@ -23,9 +23,10 @@ I'm Ismail Ali</h1>
 <p align="left">
 <a href="https://linkedin.com/in/ismailali2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailali" height="30" width="40" /></a>
 <a href="https://instagram.com/ismail.ali_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailali" height="30" width="40" /></a>
- <a href="mailto:infa.ismailali@gmail.com?subject=Hello%20Ismail%20–%20From%20GitHub%20Profile" target="_blank">
-    <img src="https://img.shields.io/badge/Email-infa.ismailali%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+ <a href="mailto:infa.ismailali@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="infa.ismailali@gmail.com" height="30" width="40" />
+</a>
+
 </p>
 
 ---
