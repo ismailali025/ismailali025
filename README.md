@@ -14,7 +14,7 @@ I'm Ismail Ali</h1>
 - 🌱 I’m currently learning **Cryptography & Cybersecurity**  
 - 👯 I’m looking to collaborate on **Cybersecurity Projects & Research**  
 - 💬 Ask me about **Cybersecurity, Ethical Hacking, Data Security**  
-- 📫 How to reach me: **[your email here]**  
+- 📫 How to reach me: **infa.ismailali@gmail.com**  
 - ⚡ Fun fact: **Breaking into systems legally is my hobby, securing them is my passion!**  
 
 ---
